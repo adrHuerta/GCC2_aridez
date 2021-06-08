@@ -4,10 +4,10 @@
 En desarrollo
 
 ## Datos / Data
-* https://doi.org/10.6084/m9.figshare.14067035.v1
+* https://doi.org/10.6084/m9.figshare.14067035
 
 ## Código / Code
-* Pre-procesamiento: 
+* Pre-procesamiento: [**lgutierrezl/Regimen_aridity**](https://github.com/lgutierrezl/Regimen_aridity)
   * Evapotranspiración del cultivo de referencia: [**adrHuerta/Evaporation**](https://github.com/adrHuerta/Evaporation)
 * Análisis (Figuras/Tablas): [**adrHuerta/GCC2_aridity_changes**](https://github.com/adrHuerta/GCC2_aridity_changes)
 
